@@ -17,3 +17,5 @@ augroup END
 
 " TODO: Find a way to make sure that rhubarb is also present. This should
 " probably be at runtime, when calling the review command.
+
+" TODO: Define commands only for the current buffer.

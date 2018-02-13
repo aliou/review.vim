@@ -6,4 +6,6 @@ function! review#repo() abort
 endfunction
 
 function! review#detect(filename) abort
+  " TODO: Store in `buffer` variable the current filename and maybe the last
+  " commit.
 endfunction
